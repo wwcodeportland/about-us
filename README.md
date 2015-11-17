@@ -1,4 +1,4 @@
-about-us
+About Women Who Code Portland
 =========================
 
 ###[Website](http://www.womenwhocode.com/portland)
