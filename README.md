@@ -8,5 +8,4 @@ We are the Portland chapter of Women Who Code.
 All of our events are listed on Meetup. RSVP!
 
 ###[Twitter - @wwcodeportland](http://twitter.com/wwcodeportland)
-Follow us on Twiiter!
-use our hashtag: #wwcodepdx
+Follow us and use our hashtag: #wwcodepdx
