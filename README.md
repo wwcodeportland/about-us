@@ -9,3 +9,6 @@ All of our events are listed on Meetup. RSVP!
 
 ###[Twitter - @wwcodeportland](http://twitter.com/wwcodeportland)
 Follow us and use our hashtag: **#wwcodepdx**
+
+###[GitHub - @wwcodeportland](http://github.com/wwcodeportland)
+We have a GitHub repo with files from our study nights, networking nights, and workshops.
