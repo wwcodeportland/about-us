@@ -26,13 +26,13 @@ We host regular events, which can be found on our Meetup page.
 
 ## Find Us
 
-<img height=20 src="social-media/twitter-logo.png" title="Twitter"> -- Twitter: [@wwcodeportland](http://twitter.com/wwcodeportland) - use the hashtags: **wwcode** and **#wwcodepdx**
+<img height=30 src="social-media/twitter-logo.png" title="Twitter"> --- Twitter: [@wwcodeportland](http://twitter.com/wwcodeportland) - use the hashtags: **wwcode** and **#wwcodepdx**
 
-<img height=20 src="social-media/medium-logo.png" title="Medium"> -- Medium: [@wwcodeportland](http://medium.com/@wwcodeportland)
+<img height=30 src="social-media/medium-logo.png" title="Medium"> --- Medium: [@wwcodeportland](http://medium.com/@wwcodeportland)
 
-<img height=20 src="social-media/github-logo.png" title="GitHub"> -- Github: [@wwcodeportland](http://github.com/wwcodeportland)
+<img height=30 src="social-media/github-logo.png" title="GitHub"> -- Github: [@wwcodeportland](http://github.com/wwcodeportland)
 
-<img height=20 src="social-media/slack-logo.jpg" title="Slack"> -- [Sign up here for Slack](http://bit.ly/28SvZLC)
+<img height=30 src="social-media/slack-logo.jpg" title="Slack"> --- Slack: [Sign up for Slack](http://bit.ly/28SvZLC)
 
 ## 2016 Sponsors
 Thank you for our wonderful sponsors! We could not run this organization without you.
