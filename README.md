@@ -9,8 +9,8 @@ We are the Portland chapter of Women Who Code. Women Who Code (WWCode) is a U.S.
 We host regular events, which can be found on our Meetup page.
 
 * [Networking Nights](https://github.com/wwcodeportland/networking-nights) - monthly women's speakers series in Portland
-* [Study Nights](https://github.com/wwcodeportland/study-nights) - Regular study nights focused on JavaScript, DevOps, Algorithms and Interview Prep, Big Data, and Design.
-* [Workshops](https://github.com/wwcodeportland/workshops) - Workshops on various subjects, including iOS, Android, React Native, and 
+* [Study Nights](https://github.com/wwcodeportland/study-nights) - regular study nights focused on JavaScript, DevOps, Algorithms and Interview Prep, Big Data, and Design.
+* [Workshops](https://github.com/wwcodeportland/workshops) - workshops on various subjects, including iOS, Android, React Native, and 
 * Social Events
 
 ## Leadership
@@ -39,6 +39,6 @@ Thank you for our wonderful sponsors! We could not run this organization without
 <alt="Nike"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png">
 <alt="New Relic"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png">
 
-## 2015 Sponsor
+## 2015 Sponsors
 
 <alt="New Relic"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png">
