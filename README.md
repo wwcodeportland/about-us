@@ -17,12 +17,14 @@ We host regular events, which can be found on our Meetup page.
 
 * Caterina - Director
 * Paige - Founder (currently inactive)
+* Richa - Director
 * Sabina  - Event Lead
-* Richa - Skills Development Lead
-* Amara - Community Lead
 * Sarah Joy - JavaScript Lead
 * Shiyuan - Design Lead
 * Tricia - DevOps Lead
+* Alia - Algorithms Lead
+* Keeley - Community Lead
+* Michelle - Networking Night Lead
 
 ## Find Us
 
@@ -33,6 +35,13 @@ We host regular events, which can be found on our Meetup page.
 <img height=30 src="social-media/github-logo.png" title="GitHub"> -- Github: [@wwcodeportland](http://github.com/wwcodeportland)
 
 <img height=30 src="social-media/slack-logo.jpg" title="Slack"> --- Slack: [Sign up for Slack](http://bit.ly/28SvZLC)
+
+## 2017 Sponsors
+Thank you for our wonderful sponsors! We could not run this organization without you.
+
+<alt="Alchemy Lab"><img height=100 src="">
+<alt="Intel"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png">
+<alt="Adroit Resources"><img height=100 src="">
 
 ## 2016 Sponsors
 Thank you for our wonderful sponsors! We could not run this organization without you.
