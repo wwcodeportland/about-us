@@ -36,21 +36,17 @@ We host regular events, which can be found on our Meetup page.
 
 <img height=30 src="social-media/slack-logo.jpg" title="Slack"> --- Slack: [Sign up for Slack](http://bit.ly/28SvZLC)
 
-## 2017 Sponsors
+## Sponsors
 Thank you for our wonderful sponsors! We could not run this organization without you.
 
-<alt="Alchemy Lab"><img height=100 src="">
-<alt="Intel"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png">
-<alt="Adroit Resources"><img height=100 src="">
+## 2017 Sponsors
+
+<img height=100 src="" alt="Alchemy Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> <img height=100 src="" alt="Adroit Resources">
 
 ## 2016 Sponsors
-Thank you for our wonderful sponsors! We could not run this organization without you.
 
-<alt="Airbnb"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png">
-<alt="Intel"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png">
-<alt="Nike"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png">
-<alt="New Relic"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png">
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png" alt="Airbnb"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New Relic">
 
 ## 2015 Sponsors
 
-<alt="New Relic"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png">
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New Relic">
