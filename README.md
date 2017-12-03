@@ -1,7 +1,11 @@
 # About Women Who Code Portland
 
 ## Who We Are
+<<<<<<< HEAD
 We are the Portland chapter of Women Who Code. Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like-minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+=======
+We are the Portland chapter of Women Who Code. Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like-minded individuals around the globe who unite under one simple notion – the world of technology is much better with women in it.
+>>>>>>> 66683e33811b731de00cbc0485c36629e8f6e9c4
 * More about us [here](http://womenwhocode.com/portland)
 * Our events are listed on [Meetup](http://www.meetup.com/Women-Who-Code-Portland/)
 
@@ -9,18 +13,30 @@ We are the Portland chapter of Women Who Code. Women Who Code (WWCode) is a U.S.
 We host regular events, which can be found on our Meetup page.
 
 * [Networking Nights](https://github.com/wwcodeportland/networking-nights) - monthly women's speakers series in Portland
+<<<<<<< HEAD
 * [Study Nights](https://github.com/wwcodeportland/study-nights) - regular study nights focused on JavaScript, DevOps, Algorithms.
 * [Workshops](https://github.com/wwcodeportland/workshops) - workshops on various subjects, including iOS, Android, React Native, and
 * Social Events
+=======
+* [Study Nights](https://github.com/wwcodeportland/study-nights) - regular study nights focused on JavaScript, DevOps, Design + Product , and Algorithms.
+* [Workshops](https://github.com/wwcodeportland/workshops) - workshops on various subjects, including iOS, Android, command line, contributing to open source, security, cryptocurrencies, Agile development, and much more.
+* Community Events - various social events, such as viewings of Hidden Figures, happy hours, women who strength train, and more
+* IoT Hackathon - a yearly weekend hackathon focused on teaching and exposing our members to hardware and the Internet of Things.
+>>>>>>> 66683e33811b731de00cbc0485c36629e8f6e9c4
 
 ## Leadership
 
 * Caterina - Director
+<<<<<<< HEAD
 * Richa - Skills Development Lead
+=======
+* Richa - Director
+>>>>>>> 66683e33811b731de00cbc0485c36629e8f6e9c4
 * Sarah Joy - JavaScript Lead
 * Shiyuan - Design Lead
 * Tricia - DevOps Lead
 * Alia - Algorithms Lead
+<<<<<<< HEAD
 * Keeley - Community Lead
 * Michelle - Networking Nights Lead
 * Sabina - Events Lead
@@ -38,10 +54,44 @@ We host regular events, which can be found on our Meetup page.
 <alt="Intel"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png">
 <alt="Nike"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png">
 
+=======
+* Keeley - Open Source Lead
+* Michelle - Networking Nights Team
+* Haley - JavaScript Co-Lead
+* Allison - Slack Program Manager
+* Molly - Design Co-Lead
+* Meghane - Algorithms Co-Lead
+* Posey - Community Engagement Lead
+* Alexis - DevOps Co-Lead
 
-## 2016 Sponsors
+## Find Us
+
+<img height=30 src="social-media/twitter-logo.png" alt="Twitter"> - Twitter: [@wwcodeportland](http://twitter.com/wwcodeportland) - use the hashtags: **#wwcode** 
+
+<img height=30 src="social-media/instagram-logo.png" alt="Instagram"> - Instagram: [@wwcodeportland](http://instagram.com/wwcodeportland)
+
+<img height=30 src="social-media/medium-logo.png" alt="Medium"> - Medium: [@wwcodeportland](http://medium.com/@wwcodeportland)
+
+<img height=30 src="social-media/github-logo.png" alt="GitHub"> - Github: [@wwcodeportland](http://github.com/wwcodeportland)
+>>>>>>> 66683e33811b731de00cbc0485c36629e8f6e9c4
+
+<img height=30 src="social-media/slack-logo.jpg" alt="Slack"> - Slack: [Join our community: bit.ly/wwcpdx-slack](http://bit.ly/wwcpdx-slack)
+
+## Sponsors
 Thank you for our wonderful sponsors! We could not run this organization without you.
 
+<<<<<<< HEAD
 <alt="Intel"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png">
 <alt="Nike"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png">
 <alt="Airbnb"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png">
+=======
+## 2017 Sponsors
+
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-devopsdays-pdx.png" alt="DevOps Days PDX"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New relic"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-invision.png" alt="InVision App"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-hackbright.png" alt="Hackbright Academy"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-adroit.png" alt="Adroit Resources"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-aws-elemental.png" alt="AWS Elemental"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-vacasa.png" alt="Vacasa Rentals">
+
+## 2016 Sponsors
+
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png" alt="Airbnb"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike"><img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New Relic">
+
+
+>>>>>>> 66683e33811b731de00cbc0485c36629e8f6e9c4
