@@ -48,7 +48,7 @@ We host regular events, which can be found on our Meetup page.
 ## Sponsors
 Thank you for our wonderful sponsors! We could not run this organization without you.
 
-## 2017 Sponsors
+### 2017 Sponsors
 
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-devopsdays-pdx.png" alt="DevOps Days PDX"> 
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> 
@@ -59,7 +59,7 @@ Thank you for our wonderful sponsors! We could not run this organization without
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-adroit.png" alt="Adroit Resources"> 
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-aws-elemental.png" alt="AWS Elemental"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-vacasa.png" alt="Vacasa Rentals">
 
-## 2016 Sponsors
+### 2016 Sponsors
 
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png" alt="Airbnb"> 
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike">
