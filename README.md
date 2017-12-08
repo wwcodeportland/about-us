@@ -50,17 +50,18 @@ Thank you for our wonderful sponsors! We could not run this organization without
 
 ### 2017 Sponsors
 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-devopsdays-pdx.png" alt="DevOps Days PDX"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New relic"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-invision.png" alt="InVision App"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-hackbright.png" alt="Hackbright Academy">
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-adroit.png" alt="Adroit Resources"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-aws-elemental.png" alt="AWS Elemental"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-vacasa.png" alt="Vacasa Rentals">
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab" title="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-devopsdays-pdx.png" alt="DevOps Days PDX" title="DevOps Days PDX"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel" title="Intel"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New Relic" title="New Relic"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-invision.png" alt="InVision App" title="InVision App"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-hackbright.png" alt="Hackbright Academy" title="Hackbright Academy">
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike" title="Nike"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-adroit.png" alt="Adroit Resources" title="Adroit Resources"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-aws-elemental.png" alt="AWS Elemental" title="AWS Elemental"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-vacasa.png" alt="Vacasa Rentals" title="Vacasa Rentals">
 
 ### 2016 Sponsors
 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png" alt="Airbnb"> 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike">
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New Relic">
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel" title="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-airbnb.png" alt="Airbnb" title="Airbnb"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-nike.png" alt="Nike" title="Nike">
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-newrelic.png" alt="New Relic" title="New Relic">
