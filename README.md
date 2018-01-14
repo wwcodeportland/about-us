@@ -26,12 +26,12 @@ We host regular events, which can be found on our Meetup page.
 * Alia - Algorithms Lead
 * Keeley - Open Source Lead
 * Michelle - Networking Nights Team
-* Haley - JavaScript Co-Lead
-* Allison - Slack Program Manager
-* Molly - Design Co-Lead
-* Meghane - Algorithms Co-Lead
+* Haley - JavaScript Lead
+* Allison - Evangelist
+* Molly - Design Lead
+* Meghane - Algorithms Lead
 * Posey - Community Engagement Lead
-* Alexis - DevOps Co-Lead
+* Alexis - DevOps Lead
 
 ## Find Us Online
 
