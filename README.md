@@ -11,21 +11,21 @@ We are the Portland chapter of Women Who Code. Women Who Code (WWCode) is a U.S.
 We host regular events, which can be found on our Meetup page.
 
 * [Networking Nights](https://github.com/wwcodeportland/networking-nights) - monthly women's speakers series in Portland
-* [Study Nights](https://github.com/wwcodeportland/study-nights) - regular study nights focused on JavaScript, DevOps, Design + Product , and Algorithms.
+* [Study Nights](https://github.com/wwcodeportland/study-nights) - monthly study nights focused on JavaScript, DevOps, Design + Product, Algorithms, and Open Source.
 * [Workshops](https://github.com/wwcodeportland/workshops) - workshops on various subjects, including iOS, Android, command line, contributing to open source, security, cryptocurrencies, Agile development, and much more.
 * Community Events - various social events, such as viewings of Hidden Figures, happy hours, women who strength train, and more
 * [IoT Hackathon](https://github.com/wwcodeportland/iot-hackathon-2016) - a yearly weekend hackathon focused on teaching and exposing our members to hardware and the Internet of Things.
 
 ## Leadership Team
 
-* Caterina - Director
+* Caterina - Senior Director & Co-Founder
 * Richa - Director
 * Sarah Joy - JavaScript Lead
 * Shiyuan - Design Lead
 * Tricia - DevOps Lead
 * Alia - Algorithms Lead
 * Keeley - Open Source Lead
-* Michelle - Networking Nights Team
+* Michelle - Open Source Lead
 * Haley - JavaScript Lead
 * Allison - Evangelist
 * Molly - Design Lead
