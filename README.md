@@ -32,6 +32,7 @@ We host regular events, which can be found on our Meetup page.
 * Meghane - Algorithms Lead
 * Posey - Community Engagement Lead
 * Alexis - DevOps Lead
+* Miki - Evangelist
 
 ## Find Us Online
 
