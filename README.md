@@ -20,19 +20,24 @@ We host regular events, which can be found on our Meetup page.
 
 * Caterina - Senior Director & Co-Founder
 * Richa - Director
-* Sarah Joy - JavaScript Lead
-* Shiyuan - Design Lead
-* Tricia - DevOps Lead
-* Alia - Algorithms Lead
-* Keeley - Open Source Lead
-* Michelle - Open Source Lead
+* Keeley - Director
+* Sarah Joy - CSS Lead
 * Haley - JavaScript Lead
-* Allison - Evangelist
-* Molly - Design Lead
-* Meghane - Algorithms Lead
+* Shiyuan - Evangelist
+* Tricia - DevOps Lead
 * Posey - Community Engagement Lead
+* Meghane - Data Science Lead
 * Alexis - DevOps Lead
 * Miki - Evangelist
+* Alex - Networking Nights Lead
+* Stacy - DevOps Lead
+* Hannah - Workshop Lead
+* Allison - Algorithms Lead
+* Sharlee - Evangelist
+* Kezia - Newsletter Manager
+* Nicole - Commincations Coordinator
+* Courtney - Designer
+* Kailyn - Design Coordinator
 
 ## Find Us Online
 
