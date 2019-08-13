@@ -49,6 +49,14 @@ We host regular events, which can be found on our Meetup page.
 ## Sponsors
 Thank you for our wonderful sponsors! We could not run this organization without you.
 
+### 2019 Sponsors
+
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab" title="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel" title="Intel"> 
+
+### 2018 Sponsors
+
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab" title="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel" title="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-aws-elemental.png" alt="AWS Elemental" title="AWS Elemental"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-vacasa.png" alt="Vacasa Rentals" title="Vacasa Rentals">
+
 ### 2017 Sponsors
 
 <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab" title="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-devopsdays-pdx.png" alt="DevOps Days PDX" title="DevOps Days PDX"> 
