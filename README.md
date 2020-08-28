@@ -19,25 +19,23 @@ We host regular events, which can be found on our Meetup page.
 ## Leadership Team
 
 * Caterina - Senior Director & Co-Founder
-* Richa - Director
-* Keeley - Director
+* Tricia - Director
 * Sarah Joy - CSS Lead
 * Haley - JavaScript Lead
-* Shiyuan - Evangelist
-* Tricia - DevOps Lead
 * Posey - Community Engagement Lead
 * Meghane - Data Science Lead
-* Alexis - DevOps Lead
 * Miki - Evangelist
-* Alex - Networking Nights Lead
-* Stacy - DevOps Lead
+* Stacy - Evangelist
 * Hannah - Workshop Lead
-* Allison - Algorithms Lead
+* Allison - Security Lead
 * Sharlee - Evangelist
-* Kezia - Newsletter Manager
-* Nicole - Commincations Coordinator
-* Courtney - Designer
-* Kailyn - Design Coordinator
+* Nicole - Communications Coordinator
+* Kailyn - Design Lead
+* Tricia L. - Design Lead
+* Alekhya - Data Science Lead
+* Meryl - CSS Lead
+* Brittany - JavaScript Lead
+* Bhuva - Data Science Coordinator
 
 ## Find Us Online
 
@@ -56,7 +54,7 @@ Thank you for our wonderful sponsors! We could not run this organization without
 
 ### 2019 Sponsors
 
-<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab" title="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel" title="Intel"> 
+<img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-alchemy-code-lab.png" alt="Alchemy Code Lab" title="Alchemy Code Lab"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-intel.png" alt="Intel" title="Intel"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-aws-elemental.png" alt="AWS Elemental" title="AWS Elemental"> <img height=100 src="https://github.com/wwcodeportland/networking-nights/blob/master/logos/logo-vacasa.png" alt="Vacasa Rentals" title="Vacasa Rentals">
 
 ### 2018 Sponsors
 
